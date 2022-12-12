@@ -22,7 +22,7 @@
 <p>Para baixar, é necessário rodar o programa para baixar os arquivos necessários. Para fazer isso, digite:</p>
 
 <code>
-<span style="color: tomato">»</span> git clone https://github.com/zMarcoos/TR12_536281.git
+<span style="color: tomato">»</span> git clone https://github.com/kawan74/TR12_539063.git
 </code>
 <br>
 
